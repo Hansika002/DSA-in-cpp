@@ -51,7 +51,6 @@ char getMaxOccCharacter(string s) {
 
     for(int i=0; i<s.length(); i++) {
         char ch = s[i];
-        //lowercase
         int number = 0;
         number = ch - 'a';
         arr[number]++;
@@ -64,8 +63,6 @@ char getMaxOccCharacter(string s) {
             maxi = arr[i];
         }
     }
-    
-
     return 'a'+ans;
 
 }
