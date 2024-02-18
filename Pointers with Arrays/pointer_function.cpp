@@ -22,7 +22,7 @@ int getSum(int *arr, int n) {
 }
 
 int main() {
-    int arr[6] = {1,2,3,4,5,8};
+    int arr[6] = {1,2,3,4,5,7};
     cout << "Sum is " << getSum(arr+3 ,3) << endl ;  
     return 0;
 }
