@@ -8,3 +8,5 @@
    -- Selection Sort
 
 - Strings
+
+- Pointers
