@@ -15,7 +15,7 @@ int getSum(int *arr, int n) {
     cout << endl << "Size : " << sizeof(arr) << endl;
 
     int sum = 0;
-    for(int i=0;i<n;i++) {
+    for(int i=0; i<n; i++) {
         sum += arr[i];
     }
     return sum;
@@ -23,6 +23,6 @@ int getSum(int *arr, int n) {
 
 int main() {
     int arr[6] = {1,2,3,4,5,7};
-    cout << "Sum is " << getSum(arr+3 ,3) << endl ;  
+    cout << "Sum is " << getSum(arr + 3 ,3) << endl ;  
     return 0;
 }
