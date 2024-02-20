@@ -13,7 +13,7 @@ int main () {
     cout << "Address is : " << ptr << endl;
     cout << "value is : " << *ptr << endl;
 
-    double d = 4.3;
+    double d = 3.4;
     double *p2 = &d;
 
     cout << "Address is : " << p2 << endl;
