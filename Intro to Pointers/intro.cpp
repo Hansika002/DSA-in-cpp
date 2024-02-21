@@ -3,7 +3,7 @@ using namespace std;
 
 int main () {
 
-    int num  = 5 ;
+    int num  = 6 ;
 
     cout << num << endl;
     cout <<" address of num is " << &num << endl;
