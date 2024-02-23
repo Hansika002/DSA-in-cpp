@@ -3,7 +3,7 @@ using namespace std;
 
 void printArray(int arr[], int size) {
 
-    cout<< " printing the array " << endl;
+    cout<< " printing array " << endl;
     for(int i =0; i<size; i++) {
         cout << arr[i] << " ";
     }
@@ -35,7 +35,7 @@ int main() {
     char ch[5] = {'a', 'b', 'c', 'r', 'p'}; 
     cout << ch[3] << endl;
 
-    cout<< " printing the array " << endl;
+    cout<< " printing array " << endl;
     for(int i =0; i<5; i++) {
         cout << ch[i] << " ";
     }
