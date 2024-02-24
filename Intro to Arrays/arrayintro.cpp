@@ -44,6 +44,6 @@ int main() {
     float firstFloat[6];
     bool firstBool[9];
 
-    cout << endl << " Everything is Fine " << endl << endl;
+    cout << endl << "Everything is Fine" << endl << endl;
     return 0;
 }
