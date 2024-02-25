@@ -10,3 +10,5 @@
 - Strings
 
 - Pointers
+    --Intro to Pointers
+    -- Pointers with Arrays
