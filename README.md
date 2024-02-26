@@ -9,6 +9,9 @@
 
 - Strings
 
+- Searching
+  -- Binary Search
+
 - Pointers
     --Intro to Pointers
     -- Pointers with Arrays
