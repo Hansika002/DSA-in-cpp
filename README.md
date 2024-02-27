@@ -13,5 +13,5 @@
   -- Binary Search
 
 - Pointers
-    --Intro to Pointers
-    -- Pointers with Arrays
+    -- Intro to Pointers
+    -- Pointers with Array
