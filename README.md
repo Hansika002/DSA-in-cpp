@@ -1,6 +1,7 @@
 # DSA-in-cpp
 
 - Arrays
+  -- Intro to Arrays
 
 - Sorting
    -- Bubble Sort
