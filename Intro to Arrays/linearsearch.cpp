@@ -17,7 +17,7 @@ int main() {
 
     int arr[8] = { 5, 7, -2, 10, 22, -2, 0, 5};
 
-    cout <<" Enter element to search for " << endl; 
+    cout <<" Enter the element to search for " << endl; 
     int key;
     cin >> key;
 
