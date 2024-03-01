@@ -13,7 +13,6 @@ bool search(int arr[], int size, int key) {
     return 0;
 }
 
-
 int main() {
 
     int arr[8] = { 5, 7, -2, 10, 22, -2, 0, 5};
@@ -22,7 +21,7 @@ int main() {
     int key;
     cin >> key;
 
-    bool found = search(arr, 8, key);
+    bool found = search(arr, 5 , key);
 
     if( found ) {
         cout <<" Key is present "<< endl;
@@ -30,6 +29,5 @@ int main() {
     else{
         cout <<" Key is absent " << endl;
     }
-
     return 0;
 }
