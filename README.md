@@ -10,6 +10,8 @@
 
 - Strings
 
+- Arrays
+
 - Searching
   -- Binary Search
 
