@@ -13,6 +13,7 @@
 - Arrays
 
 - Searching
+
   -- Binary Search
 
 - Pointers
